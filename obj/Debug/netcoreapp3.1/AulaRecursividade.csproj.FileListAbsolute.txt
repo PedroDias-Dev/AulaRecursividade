@@ -1,0 +1,13 @@
+C:\Users\pedro\Documents\Programação\AulaRecursividade\bin\Debug\netcoreapp3.1\AulaRecursividade.exe
+C:\Users\pedro\Documents\Programação\AulaRecursividade\bin\Debug\netcoreapp3.1\AulaRecursividade.deps.json
+C:\Users\pedro\Documents\Programação\AulaRecursividade\bin\Debug\netcoreapp3.1\AulaRecursividade.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\AulaRecursividade\bin\Debug\netcoreapp3.1\AulaRecursividade.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\AulaRecursividade\bin\Debug\netcoreapp3.1\AulaRecursividade.dll
+C:\Users\pedro\Documents\Programação\AulaRecursividade\bin\Debug\netcoreapp3.1\AulaRecursividade.pdb
+C:\Users\pedro\Documents\Programação\AulaRecursividade\obj\Debug\netcoreapp3.1\AulaRecursividade.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\AulaRecursividade\obj\Debug\netcoreapp3.1\AulaRecursividade.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\AulaRecursividade\obj\Debug\netcoreapp3.1\AulaRecursividade.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\AulaRecursividade\obj\Debug\netcoreapp3.1\AulaRecursividade.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\AulaRecursividade\obj\Debug\netcoreapp3.1\AulaRecursividade.dll
+C:\Users\pedro\Documents\Programação\AulaRecursividade\obj\Debug\netcoreapp3.1\AulaRecursividade.pdb
+C:\Users\pedro\Documents\Programação\AulaRecursividade\obj\Debug\netcoreapp3.1\AulaRecursividade.genruntimeconfig.cache
